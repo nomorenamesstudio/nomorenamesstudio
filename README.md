@@ -19,6 +19,12 @@
 | 🎵 | **[juuku](https://github.com/nomorenamesstudio/juuku)** | The remote Navidrome never had: browse, queue, skip and set the volume on the box with the speakers, from any browser. | [juuku.nomorenames.studio](https://juuku.nomorenames.studio) |
 | 🖼️ | **[keret](https://github.com/nomorenamesstudio/keret)** | Photo wall builder. A folder of photographs becomes one static wall you pan and zoom, built from the CLI or in your browser. | [keret.nomorenames.studio](https://keret.nomorenames.studio) |
 
+<p align="center">
+  <a href="https://ghosted.boo"><img src="https://raw.githubusercontent.com/nomorenamesstudio/ghosted/main/docs/assets/board.jpg" width="270" alt="ghosted: applications in five columns, from applied to rejected"></a>
+  <a href="https://juuku.nomorenames.studio"><img src="https://raw.githubusercontent.com/nomorenamesstudio/juuku/main/site/images/modern/home.jpg" width="270" alt="juuku: album grid with the player docked at the bottom"></a>
+  <a href="https://keret.nomorenames.studio"><img src="https://raw.githubusercontent.com/nomorenamesstudio/keret/main/docs/assets/demo-wall.jpg" width="270" alt="keret: a wall of polaroid photographs you pan and zoom"></a>
+</p>
+
 All free, MIT and self-hostable, with no AI in the runtime — no API key, no tokens, no model bill. They run on a Raspberry Pi, a VPS, or GitHub Pages for nothing.
 
 ## In the oven
