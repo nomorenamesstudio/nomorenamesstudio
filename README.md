@@ -15,9 +15,9 @@
 
 | Tool | What it is | Live |
 | --- | --- | --- |
-| 👻 **[ghosted](https://github.com/nomorenamesstudio/ghosted)** | Job-application tracker. Every application and its timeline in one place, with the quiet ones in their own section. | [ghosted.boo](https://ghosted.boo) |
-| 🎵 **[juuku](https://github.com/nomorenamesstudio/juuku)** | The remote Navidrome never had: browse, queue, skip and set the volume on the box with the speakers, from any browser. | [juuku.nomorenames.studio](https://juuku.nomorenames.studio) |
-| 🖼️ **[keret](https://github.com/nomorenamesstudio/keret)** | Photo wall builder. A folder of photographs becomes one static wall you pan and zoom, built from the CLI or in your browser. | [keret.nomorenames.studio](https://keret.nomorenames.studio) |
+| 👻&nbsp;**[ghosted](https://github.com/nomorenamesstudio/ghosted)** | Job-application tracker. Every application and its timeline in one place, with the quiet ones in their own section. | [ghosted.boo](https://ghosted.boo) |
+| 🎵&nbsp;**[juuku](https://github.com/nomorenamesstudio/juuku)** | The remote Navidrome never had: browse, queue, skip and set the volume on the box with the speakers, from any browser. | [juuku.nomorenames.studio](https://juuku.nomorenames.studio) |
+| 🖼️&nbsp;**[keret](https://github.com/nomorenamesstudio/keret)** | Photo wall builder. A folder of photographs becomes one static wall you pan and zoom, built from the CLI or in your browser. | [keret.nomorenames.studio](https://keret.nomorenames.studio) |
 
 <p align="center">
   <a href="https://ghosted.boo"><img src="https://raw.githubusercontent.com/nomorenamesstudio/ghosted/main/docs/assets/board.jpg" width="270" alt="ghosted: applications in five columns, from applied to rejected"></a>
@@ -31,8 +31,8 @@ All free, MIT and self-hostable, with no AI in the runtime — no API key, no to
 
 | Tool | What it is |
 | --- | --- |
-| 🪪 **noka** | Next-of-kin access. A card-sized QR code and a PIN: whoever finds it scans, enters the PIN, and sees who to call. |
-| 🕳️ **WE'LL BE IN TOUCH** | A dystopian and absurd job application simulator. Requirements drift while you are not looking, interviews ambush you, rejections are templates, silence is the norm. |
+| 🪪&nbsp;**noka** | Next-of-kin access. A card-sized QR code and a PIN: whoever finds it scans, enters the PIN, and sees who to call. |
+| 🕳️&nbsp;**WE'LL BE IN TOUCH** | A dystopian and absurd job application simulator. Requirements drift while you are not looking, interviews ambush you, rejections are templates, silence is the norm. |
 
 Neither has shipped yet, so there is no repo and no demo to point at. They show up above when they do.
 
