@@ -66,4 +66,11 @@ Yes: coding, design, user experience, accessibility. Write to hey@nomorenames.st
 
 Everything that ships is MIT. Self-host them, fork them, share them, ignore them. Mi casa es su casa.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nomorenamesstudio/nomorenamesstudio/main/bonsai/bonsai-dark.svg">
+    <img src="https://raw.githubusercontent.com/nomorenamesstudio/nomorenamesstudio/main/bonsai/bonsai-light.svg" alt="A pixel bonsai grown from our public commits, one night at a time" width="400">
+  </picture>
+</p>
+
 <p align="center">Made with ♥ by No More Names Studio</p>
