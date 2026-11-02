@@ -1,0 +1,2 @@
+# kaja is being shut down, so it never gets a branch (and leaves no scar).
+exclude = ["kaja"]
