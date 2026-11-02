@@ -1,0 +1,177 @@
+{
+  "schema": 1,
+  "login": "nomorenamesstudio",
+  "kind": "user",
+  "seed": "3975f4e727309e71",
+  "planted": "2016-04-12",
+  "last_grown": "2026-11-01",
+  "trunk": {
+    "height": 24,
+    "girth": 4,
+    "bends": [
+      [
+        0,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        10,
+        0
+      ],
+      [
+        15,
+        -1
+      ],
+      [
+        20,
+        -1
+      ]
+    ]
+  },
+  "branches": [
+    {
+      "repo_id": "R_kgDOUBajwQ",
+      "name": "ghosted",
+      "lang": "TypeScript",
+      "color": "#3178c6",
+      "anchor": 6,
+      "side": "left",
+      "length": 3,
+      "pad": 3,
+      "commits_total": 1,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOU8io_Q",
+      "name": "keret",
+      "lang": "JavaScript",
+      "color": "#f1e05a",
+      "anchor": 9,
+      "side": "right",
+      "length": 4,
+      "pad": 3,
+      "commits_total": 45,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOVNWQIA",
+      "name": "juuku",
+      "lang": "TypeScript",
+      "color": "#3178c6",
+      "anchor": 18,
+      "side": "left",
+      "length": 6,
+      "pad": 4,
+      "commits_total": 154,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOUH-3Kg",
+      "name": "kaja",
+      "lang": "TypeScript",
+      "color": "#3178c6",
+      "anchor": 21,
+      "side": "right",
+      "length": 5,
+      "pad": 3,
+      "commits_total": 81,
+      "pruned": null
+    }
+  ],
+  "year_cache": {
+    "2016": {},
+    "2017": {},
+    "2018": {},
+    "2019": {},
+    "2020": {},
+    "2021": {},
+    "2022": {},
+    "2023": {},
+    "2024": {},
+    "2025": {}
+  },
+  "history": [
+    {
+      "date": "2026-08-15",
+      "cells_added": 2
+    },
+    {
+      "date": "2026-08-16",
+      "cells_added": 2
+    },
+    {
+      "date": "2026-08-17",
+      "cells_added": 2
+    },
+    {
+      "date": "2026-08-29",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-08-30",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-08-31",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-09-25",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-10-01",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-10-05",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-10-18",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-10-22",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-10-23",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-10-24",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-10-28",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-10-29",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-10-30",
+      "cells_added": 1
+    }
+  ],
+  "vitals": {
+    "phase": "growing",
+    "streak_days": 0,
+    "idle_days": 4,
+    "commits_total": 285,
+    "stars_total": 4,
+    "public_repos": 6,
+    "activity_28d": {
+      "R_kgDOU8io_Q": 45,
+      "R_kgDOUBajwQ": 0,
+      "R_kgDOUH-3Kg": 0,
+      "R_kgDOVNWQIA": 154
+    },
+    "grew": {}
+  }
+}
