@@ -4,7 +4,7 @@
   "kind": "user",
   "seed": "3975f4e727309e71",
   "planted": "2016-04-12",
-  "last_grown": "2026-11-10",
+  "last_grown": "2026-11-11",
   "trunk": {
     "height": 24,
     "girth": 4,
@@ -173,14 +173,14 @@
   ],
   "vitals": {
     "phase": "growing",
-    "streak_days": 3,
-    "idle_days": 0,
+    "streak_days": 0,
+    "idle_days": 1,
     "commits_total": 554,
     "stars_total": 5,
     "public_repos": 7,
     "activity_28d": {
-      "R_kgDOU8io_Q": 13,
-      "R_kgDOUBajwQ": 30,
+      "R_kgDOU8io_Q": 5,
+      "R_kgDOUBajwQ": 24,
       "R_kgDOVNWQIA": 154,
       "R_kgDOVikWdA": 19
     },
